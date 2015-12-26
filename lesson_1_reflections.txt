@@ -1,0 +1,14 @@
+Viewing a diff between two versions of a file helped me see there differences. The lines beginning with - were removed and ones with a plus were added. 
+
+Having easy access to the history of a file could make me a better programmer because one could see the thought process of the work done through changes and also revert to an earlier version easily if new changes go wrong.  
+
+Manually choosing when to commit has a lot of pros including having full control over the nature and timing of commits. A con would be its free nature requires diligence in remembering to commit regularly. 
+
+Git might be more interested in the interdependency of files. Google docs treats each file seperate because files are perhaps assumed to be less interdependent than files that are mostly code.  
+
+git log shows one a list of all commits. git diff lets you compare a commit and, say, it's previous one to see what and how much was changed. In other words you can look up the total commit history and (provided good notation) find a specific commit to compare it to the previous or even earlier versions.  
+
+Version control could make one more confident to make changes that break something because you know you can always go back to previous committed state. This could be a positive if you're trying out new ideas in code. 
+
+I want to use git to start building apps but first I need to reset the learn.co workspace!
+
