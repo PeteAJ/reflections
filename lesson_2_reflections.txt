@@ -1,1 +1,14 @@
 The staging area prepares a file for commits. We can add files to the staging area. We can check status of files in both the working directory and the staging area. The working directory is the more general directory of files staged and unstated. A repository is our folder of all files. Working directory is the directory with source files under git control vs our local repository.  
+
+You can use git diff to compare the working directory to the staging area. That way you can make sure you have at least one logical change worth committing. 
+
+Branches are helpful in keeping versions (like an easy version or a foreign language version) separate and organized. Anytime you’re doing something different you could create a new branch. Helpful for when you’re making experimental branches publicly. Also just for switching between features
+
+Merging two branches together results in a combined single branch. A diagram is helpful to see how two branches have commits ongoing simultaneously.
+
+Merging non automatically gives the user control over when and why to merge branches. Seems preferable. 
+
+ 
+
+ 
+
