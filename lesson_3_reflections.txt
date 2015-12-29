@@ -1,1 +1,2 @@
 When would you want to create a remote repository rather than keeping all your work local?
+Prehaps if you were working live and collaboratively you could start a project this way on GitHub. 
