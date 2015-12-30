@@ -3,3 +3,7 @@ Prehaps if you were working live and collaboratively you could start a project t
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 In case of sharing files, one might want to make local files more final or operational instead of automatically pushing them to the remote or vice/versa.  
+
+A branch can be used to try new features or experiments apart from your master branch as a side concern from a fixed point. A fork is a copy of a repository copied to your GitHub repositories so you can work on it apart from its developers. A clone is a copy of a repository. We cloned our fork to our local computer to work on it there.  
+
+
